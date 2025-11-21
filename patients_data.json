@@ -1,0 +1,38 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "John Doe",
+    "age": 45,
+    "gender": "Male",
+    "phone": "555-123-4567",
+    "address": "123 Elm Street, Sacramento, CA",
+    "primary_doctor": "Dr. Emily Smith"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Maria Lopez",
+    "age": 32,
+    "gender": "Female",
+    "phone": "555-987-6543",
+    "address": "89 Pine Avenue, Elk Grove, CA",
+    "primary_doctor": "Dr. Andrew Chen"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Sam Patel",
+    "age": 29,
+    "gender": "Male",
+    "phone": "555-444-8888",
+    "address": "45 Oak Drive, Folsom, CA",
+    "primary_doctor": "Dr. Olivia Martinez"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Aisha Brown",
+    "age": 67,
+    "gender": "Female",
+    "phone": "555-222-3333",
+    "address": "200 River Blvd, Roseville, CA",
+    "primary_doctor": "Dr. Jack Reynolds"
+  }
+]
